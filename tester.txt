@@ -1,0 +1,87 @@
+
+fgh('Déclaration : ')
+a = 1
+fgh(a)
+
+
+
+
+fgh('This is IF')
+a=1
+b=2
+ig(a!=2){a+b}
+
+
+fgh('This is IF ELSE')
+a=1
+b=2
+ig(a==1){a+b} imata{a-b}
+
+
+a=is7a
+c=4
+b=3
+ig(a!=is7a){
+    fgh('oya')
+    fgh(b+c)
+    } 
+imata{
+      fgh('oyaoya')
+      fgh(c-b)
+      }
+
+
+
+fgh('This is FOR')
+
+a=1
+b=2
+n(i=1;1==1;i++){a+b}
+
+
+
+
+fgh('This is WHILE')
+a=1
+b=2
+magdisoul(1>0){a+b}
+
+
+fgh('This is Do While')
+a=1
+b=2
+skr{a+b} magdisoul(1>0)
+
+
+fgh('This is Fonction')
+
+a=1
+daala b (tss7a a) {
+fgh('hi return func')
+rarid(a)
+}
+b(a)
+
+
+fgh('This is IF')
+a=is7a
+c=4
+b=3
+ig(a==is7a){
+    fgh('oya')
+    fgh(b+c)
+    } 
+
+
+fgh('This is Class') 
+
+tawant maclass {ysntkoulshi a = 1
+                snkhtiwlinou b = 2}
+
+tawant mac iwrtn maclass {ysntkoulshi c = 6
+                }
+mac[rhitamaroua]
+rhitamaroua.c
+rhitamaroua.a
+
+
